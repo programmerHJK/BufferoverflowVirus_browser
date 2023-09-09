@@ -1,0 +1,10 @@
+D:\C# programming\overslow project\Boom Box\Boom Box\bin\Debug\Boom Box.exe.config
+D:\C# programming\overslow project\Boom Box\Boom Box\bin\Debug\Boom Box.exe
+D:\C# programming\overslow project\Boom Box\Boom Box\bin\Debug\Boom Box.pdb
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom Box.csproj.AssemblyReference.cache
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom_Box.Form1.resources
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom_Box.Properties.Resources.resources
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom Box.csproj.GenerateResource.cache
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom Box.csproj.CoreCompileInputs.cache
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom Box.exe
+D:\C# programming\overslow project\Boom Box\Boom Box\obj\Debug\Boom Box.pdb
