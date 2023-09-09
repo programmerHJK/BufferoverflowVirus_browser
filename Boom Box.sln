@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boom Box", "Boom Box\Boom Box.csproj", "{EC74B0D5-C4F1-4236-A30A-52E36C16C91B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC74B0D5-C4F1-4236-A30A-52E36C16C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC74B0D5-C4F1-4236-A30A-52E36C16C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC74B0D5-C4F1-4236-A30A-52E36C16C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC74B0D5-C4F1-4236-A30A-52E36C16C91B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2857C1E-D09A-4AB3-B214-F1C57C04759D}
+	EndGlobalSection
+EndGlobal
